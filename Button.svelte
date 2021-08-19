@@ -9,10 +9,10 @@
 <style>
 	button {
 	  background: #ff3e00;
-	  color: white;
+	  color: aqua;
 	  border: none;
-	  padding: 8px 12px;
-	  border-radius: 2px;
+	  padding: 10px 12px;
+	  border-radius: 5px;
 	}
 </style>
 
